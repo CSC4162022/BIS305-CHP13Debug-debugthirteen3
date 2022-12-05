@@ -1,0 +1,11 @@
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\DebugThirteen3.csproj.AssemblyReference.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\DebugThirteen3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\FixedDebugTwelve3.Form1.resources
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\FixedDebugTwelve3.Properties.Resources.resources
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\DebugThirteen3.csproj.GenerateResource.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\DebugThirteen3.csproj.CoreCompileInputs.cache
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\bin\Debug\FixedDebugTwelve3.exe.config
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\bin\Debug\FixedDebugTwelve3.exe
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\bin\Debug\FixedDebugTwelve3.pdb
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\FixedDebugTwelve3.exe
+C:\Users\Niort\OneDrive\Desktop\BIS 305\chp13adebugthirteen3-CSC4162022-main\chp13adebugthirteen3-CSC4162022-main\obj\Debug\FixedDebugTwelve3.pdb
